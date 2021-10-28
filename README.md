@@ -1,3 +1,2 @@
 # water_quality_evaluation_through_channel_state_information
-Research Paper
 those file are the dataset
