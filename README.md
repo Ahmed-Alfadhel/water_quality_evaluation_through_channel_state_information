@@ -1,2 +1,2 @@
 # water_quality_evaluation_through_channel_state_information
-those file are the dataset
+those files are the dataset
